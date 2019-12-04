@@ -105,8 +105,8 @@
 ../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,4116,1658,4176,1718,elephant
 ../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,4334,1524,4394,1584,elephant
 ../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,741,13,801,73,elephant
-../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,702,-21,762,39,elephant
-../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,684,-21,744,39,elephant
+../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,702,0,762,39,elephant
+../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,684,0,744,39,elephant
 ../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,4295,1632,4355,1692,elephant
 ../data/test_images/5fb0641b8f1ed1fb5aa1b2a7f7d2384b1535bdc8.jpg,5040,2526,5100,2586,elephant
 ../data/test_images/5fb0641b8f1ed1fb5aa1b2a7f7d2384b1535bdc8.jpg,3917,3422,3977,3482,elephant
@@ -141,7 +141,7 @@
 ../data/test_images/8fa0c77f831031811ddd7be35aeb0ed4f8ca03fe.jpg,5328,922,5388,982,elephant
 ../data/test_images/8fa0c77f831031811ddd7be35aeb0ed4f8ca03fe.jpg,4946,650,5006,710,elephant
 ../data/test_images/8fa0c77f831031811ddd7be35aeb0ed4f8ca03fe.jpg,4643,193,4703,253,elephant
-../data/test_images/8fa0c77f831031811ddd7be35aeb0ed4f8ca03fe.jpg,5438,774,5498,834,elephant
+../data/test_images/8fa0c77f831031811ddd7be35aeb0ed4f8ca03fe.jpg,5438,774,5472,834,elephant
 ../data/test_images/8fa0c77f831031811ddd7be35aeb0ed4f8ca03fe.jpg,4743,243,4803,303,elephant
 ../data/test_images/6a6936e1c106ba041cefca6a07339e0f8bb8d7a6.jpg,1874,563,1934,623,elephant
 ../data/test_images/6a6936e1c106ba041cefca6a07339e0f8bb8d7a6.jpg,4349,1158,4409,1218,elephant
@@ -186,8 +186,8 @@
 ../data/test_images/6a6936e1c106ba041cefca6a07339e0f8bb8d7a6.jpg,4104,153,4164,213,elephant
 ../data/test_images/6a6936e1c106ba041cefca6a07339e0f8bb8d7a6.jpg,4110,33,4170,93,elephant
 ../data/test_images/6a6936e1c106ba041cefca6a07339e0f8bb8d7a6.jpg,4214,20,4274,80,elephant
-../data/test_images/6a6936e1c106ba041cefca6a07339e0f8bb8d7a6.jpg,4293,-14,4353,46,elephant
-../data/test_images/e5509611593863b3fff10582ec7870765b579b91.jpg,470,-12,530,48,elephant
+../data/test_images/6a6936e1c106ba041cefca6a07339e0f8bb8d7a6.jpg,4293,0,4353,46,elephant
+../data/test_images/e5509611593863b3fff10582ec7870765b579b91.jpg,470,0,530,48,elephant
 ../data/test_images/555eb972652cf766ed1fd1ac5125ea410fd7b04a.jpg,5151,1661,5211,1721,elephant
 ../data/test_images/555eb972652cf766ed1fd1ac5125ea410fd7b04a.jpg,5102,1702,5162,1762,elephant
 ../data/test_images/555eb972652cf766ed1fd1ac5125ea410fd7b04a.jpg,4627,1706,4687,1766,elephant
@@ -316,10 +316,10 @@
 ../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,850,1955,910,2015,elephant
 ../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,659,1853,719,1913,elephant
 ../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,4834,3434,4894,3494,elephant
-../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,4726,3614,4786,3674,elephant
+../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,4726,3614,4786,3648,elephant
 ../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,3716,3479,3776,3539,elephant
 ../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,3619,3471,3679,3531,elephant
-../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,3703,3605,3763,3665,elephant
+../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,3703,3605,3763,3648,elephant
 ../data/test_images/d78e7af7cf4a4cd43c8f77e6f3ddd439cdaff999.jpg,5044,2791,5104,2851,elephant
 ../data/test_images/e33c0fd0b11795571a608461ad331a4cc64c7d8a.jpg,2310,3419,2370,3479,elephant
 ../data/test_images/99230f387ccc77426a0bda59897959ca0f0f834a.jpg,4454,528,4514,588,elephant
@@ -357,7 +357,7 @@
 ../data/test_images/04e8092d743bef891386f3e0ce82155f12aa4035.jpg,914,3180,974,3240,elephant
 ../data/test_images/04e8092d743bef891386f3e0ce82155f12aa4035.jpg,806,3091,866,3151,elephant
 ../data/test_images/04e8092d743bef891386f3e0ce82155f12aa4035.jpg,707,2951,767,3011,elephant
-../data/test_images/04e8092d743bef891386f3e0ce82155f12aa4035.jpg,2161,3590,2221,3650,elephant
+../data/test_images/04e8092d743bef891386f3e0ce82155f12aa4035.jpg,2161,3590,2221,3648,elephant
 ../data/test_images/04e8092d743bef891386f3e0ce82155f12aa4035.jpg,1872,3505,1932,3565,elephant
 ../data/test_images/bafeef0d236242f262075c5a7bba14cee821f376.jpg,2661,857,2721,917,elephant
 ../data/test_images/bafeef0d236242f262075c5a7bba14cee821f376.jpg,2674,898,2734,958,elephant
@@ -415,7 +415,7 @@
 ../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,2071,212,2131,272,elephant
 ../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,2341,95,2401,155,elephant
 ../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,1745,87,1805,147,elephant
-../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,2397,-1,2457,59,elephant
+../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,2397,0,2457,59,elephant
 ../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,2114,389,2174,449,elephant
 ../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,2040,463,2100,523,elephant
 ../data/test_images/eda5ce1c0338546ceb7e17de77e66219da7b3b44.jpg,1529,410,1589,470,elephant
@@ -471,7 +471,7 @@
 ../data/test_images/74f9aaf2511c7544eb974b3e434fda26749ce0cf.jpg,2584,3237,2644,3297,elephant
 ../data/test_images/74f9aaf2511c7544eb974b3e434fda26749ce0cf.jpg,2304,2313,2364,2373,elephant
 ../data/test_images/74f9aaf2511c7544eb974b3e434fda26749ce0cf.jpg,3861,3543,3921,3603,elephant
-../data/test_images/74f9aaf2511c7544eb974b3e434fda26749ce0cf.jpg,2544,3589,2604,3649,elephant
+../data/test_images/74f9aaf2511c7544eb974b3e434fda26749ce0cf.jpg,2544,3589,2604,3648,elephant
 ../data/test_images/74f9aaf2511c7544eb974b3e434fda26749ce0cf.jpg,2523,3582,2583,3642,elephant
 ../data/test_images/4a715bcfbaa6497b03b08f7cf6032aadd6392ee9.jpg,3259,2847,3319,2907,elephant
 ../data/test_images/4a715bcfbaa6497b03b08f7cf6032aadd6392ee9.jpg,3110,3082,3170,3142,elephant
@@ -493,15 +493,15 @@
 ../data/test_images/cde788ac172192a53e1e8d2294285419419c8744.jpg,882,2251,942,2311,elephant
 ../data/test_images/cde788ac172192a53e1e8d2294285419419c8744.jpg,26,2008,86,2068,elephant
 ../data/test_images/c43d6fe6316ba174bf54596db7d894856264a71b.jpg,2557,316,2617,376,elephant
-../data/test_images/3e97f58b0fb7b2a1250067da882f8706478f26dd.jpg,3761,-4,3821,56,elephant
-../data/test_images/3e97f58b0fb7b2a1250067da882f8706478f26dd.jpg,3612,-14,3672,46,elephant
+../data/test_images/3e97f58b0fb7b2a1250067da882f8706478f26dd.jpg,3761,0,3821,56,elephant
+../data/test_images/3e97f58b0fb7b2a1250067da882f8706478f26dd.jpg,3612,0,3672,46,elephant
 ../data/test_images/3ad215bcd345fc3e7cf20950b08d127835417d5e.jpg,1140,626,1200,686,elephant
 ../data/test_images/3ad215bcd345fc3e7cf20950b08d127835417d5e.jpg,711,495,771,555,elephant
 ../data/test_images/9ec6a2274b2859a3798c1334d4da2034921a836b.jpg,4341,2897,4401,2957,elephant
 ../data/test_images/1f2f6a4d022bc8f5ba0543e1f395905912f4b10f.jpg,5388,1796,5448,1856,elephant
 ../data/test_images/1f2f6a4d022bc8f5ba0543e1f395905912f4b10f.jpg,5363,1564,5423,1624,elephant
 ../data/test_images/1f2f6a4d022bc8f5ba0543e1f395905912f4b10f.jpg,5369,1541,5429,1601,elephant
-../data/test_images/1f2f6a4d022bc8f5ba0543e1f395905912f4b10f.jpg,5417,1692,5477,1752,elephant
+../data/test_images/1f2f6a4d022bc8f5ba0543e1f395905912f4b10f.jpg,5417,1692,5472,1752,elephant
 ../data/test_images/1f2f6a4d022bc8f5ba0543e1f395905912f4b10f.jpg,5360,1763,5420,1823,elephant
 ../data/test_images/b7570e87d3c0c38dad1b5fbd805f612ad9774971.jpg,534,1056,594,1116,elephant
 ../data/test_images/b7570e87d3c0c38dad1b5fbd805f612ad9774971.jpg,777,1261,837,1321,elephant
@@ -557,8 +557,8 @@
 ../data/test_images/31529a4caba2c5e37e4f9ecf311a6f5810ca64ff.jpg,1389,2689,1449,2749,elephant
 ../data/test_images/31529a4caba2c5e37e4f9ecf311a6f5810ca64ff.jpg,5405,3005,5465,3065,elephant
 ../data/test_images/31529a4caba2c5e37e4f9ecf311a6f5810ca64ff.jpg,5397,3035,5457,3095,elephant
-../data/test_images/31529a4caba2c5e37e4f9ecf311a6f5810ca64ff.jpg,5430,3053,5490,3113,elephant
-../data/test_images/31529a4caba2c5e37e4f9ecf311a6f5810ca64ff.jpg,4322,-18,4382,42,elephant
+../data/test_images/31529a4caba2c5e37e4f9ecf311a6f5810ca64ff.jpg,5430,3053,5472,3113,elephant
+../data/test_images/31529a4caba2c5e37e4f9ecf311a6f5810ca64ff.jpg,4322,0,4382,42,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1064,476,1124,536,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1004,1854,1064,1914,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,930,412,990,472,elephant
@@ -587,7 +587,7 @@
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1499,3317,1559,3377,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1360,3322,1420,3382,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1199,3504,1259,3564,elephant
-../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1740,3635,1800,3695,elephant
+../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1740,3635,1800,3648,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,291,1555,351,1615,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,467,1747,527,1807,elephant
 ../data/test_images/c9f13158f0a5c7c5551a154be0f9fc9ba8d64fb6.jpg,1635,1540,1695,1600,elephant
@@ -780,10 +780,10 @@
 ../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,1761,2192,1821,2252,elephant
 ../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,3518,3334,3578,3394,elephant
 ../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,3526,3538,3586,3598,elephant
-../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,3316,3593,3376,3653,elephant
+../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,3316,3593,3376,3648,elephant
 ../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,3302,3562,3362,3622,elephant
 ../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,2163,1523,2223,1583,elephant
-../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,2837,3617,2897,3677,elephant
+../data/test_images/258926619a82bb77a27c2d03ee95bccb5f0aaba2.jpg,2837,3617,2897,3648,elephant
 ../data/test_images/8724036dd530c62fada3ae64f05bd1dd499eaefd.jpg,4209,2359,4269,2419,elephant
 ../data/test_images/8724036dd530c62fada3ae64f05bd1dd499eaefd.jpg,3864,2669,3924,2729,elephant
 ../data/test_images/8724036dd530c62fada3ae64f05bd1dd499eaefd.jpg,3927,2682,3987,2742,elephant
@@ -831,7 +831,7 @@
 ../data/test_images/884fa549d6eaaf243d9db96bca0382f9068af146.jpg,3149,1100,3209,1160,elephant
 ../data/test_images/884fa549d6eaaf243d9db96bca0382f9068af146.jpg,3969,1115,4029,1175,elephant
 ../data/test_images/884fa549d6eaaf243d9db96bca0382f9068af146.jpg,3531,2048,3591,2108,elephant
-../data/test_images/884fa549d6eaaf243d9db96bca0382f9068af146.jpg,3577,3609,3637,3669,elephant
+../data/test_images/884fa549d6eaaf243d9db96bca0382f9068af146.jpg,3577,3609,3637,3648,elephant
 ../data/test_images/f4d6a81ff33e93bfd2a241279614316defec4f7d.jpg,3096,2139,3156,2199,elephant
 ../data/test_images/f4d6a81ff33e93bfd2a241279614316defec4f7d.jpg,2976,2194,3036,2254,elephant
 ../data/test_images/4f5d5a19a7c202d7951af879c841b2b2ba9a8560.jpg,5206,1614,5266,1674,elephant
@@ -950,7 +950,7 @@
 ../data/test_images/94d6551e738bf3089c3777d340d6294465c21e0a.jpg,1694,2934,1754,2994,elephant
 ../data/test_images/94d6551e738bf3089c3777d340d6294465c21e0a.jpg,1772,2999,1832,3059,elephant
 ../data/test_images/94d6551e738bf3089c3777d340d6294465c21e0a.jpg,1707,2896,1767,2956,elephant
-../data/test_images/17dffacdd513c8d5212304a674a42ada0e8000e4.jpg,5436,1317,5496,1377,elephant
+../data/test_images/17dffacdd513c8d5212304a674a42ada0e8000e4.jpg,5436,1317,5472,1377,elephant
 ../data/test_images/17dffacdd513c8d5212304a674a42ada0e8000e4.jpg,2946,3016,3006,3076,elephant
 ../data/test_images/a813a4ed60a8d5ca15544fe371099f6b84ff73bd.jpg,347,1067,407,1127,elephant
 ../data/test_images/a813a4ed60a8d5ca15544fe371099f6b84ff73bd.jpg,422,903,482,963,elephant
@@ -982,8 +982,8 @@
 ../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,1154,2511,1214,2571,elephant
 ../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,1066,2455,1126,2515,elephant
 ../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,4,1912,64,1972,elephant
-../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,-29,1910,31,1970,elephant
-../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,-10,1651,50,1711,elephant
+../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,0,1910,31,1970,elephant
+../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,0,1651,50,1711,elephant
 ../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,308,1408,368,1468,elephant
 ../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,269,1429,329,1489,elephant
 ../data/test_images/387aaa72021437422dabd8309ddd806707e6ce16.jpg,18,3087,78,3147,elephant
@@ -992,7 +992,7 @@
 ../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,791,1847,851,1907,elephant
 ../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,4694,2012,4754,2072,elephant
 ../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,4614,3265,4674,3325,elephant
-../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,4428,3602,4488,3662,elephant
+../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,4428,3602,4488,3648,elephant
 ../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,4546,3533,4606,3593,elephant
 ../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,4733,1974,4793,2034,elephant
 ../data/test_images/5e5ec997f2ee1727ea119349de422c652aa72d72.jpg,3331,64,3391,124,elephant
@@ -1082,7 +1082,7 @@
 ../data/test_images/1becd8ebedd1a6feaaeb733b0b498cbde366cd6d.jpg,3938,2819,3998,2879,elephant
 ../data/test_images/7ffcc3af4669b1f4d548a4cc2e0977b2221e4b4c.jpg,2547,2387,2607,2447,elephant
 ../data/test_images/af55d87907bf07f5fac1d75e1a9b5b2c7e954737.jpg,3740,3263,3800,3323,elephant
-../data/test_images/af55d87907bf07f5fac1d75e1a9b5b2c7e954737.jpg,4130,3601,4190,3661,elephant
+../data/test_images/af55d87907bf07f5fac1d75e1a9b5b2c7e954737.jpg,4130,3601,4190,3648,elephant
 ../data/test_images/5ef1209c099126498ac2be253110a40e89c4500c.jpg,3698,1840,3758,1900,elephant
 ../data/test_images/d4672e8bc0fa90946212bd8cb4df27cc657d966d.jpg,1673,2617,1733,2677,elephant
 ../data/test_images/15b3aad3d8f95e35136aa2b056afdaabcc391c6c.jpg,1688,2493,1748,2553,elephant
@@ -1181,7 +1181,7 @@
 ../data/test_images/91374f14c2bf49792b591c6aa0f8ad66b220bf16.jpg,2369,871,2429,931,elephant
 ../data/test_images/91374f14c2bf49792b591c6aa0f8ad66b220bf16.jpg,1481,819,1541,879,elephant
 ../data/test_images/9cddfd9e07d2cde3c5a412c641bb26dfd8df609d.jpg,354,212,414,272,elephant
-../data/test_images/9cddfd9e07d2cde3c5a412c641bb26dfd8df609d.jpg,369,-16,429,44,elephant
+../data/test_images/9cddfd9e07d2cde3c5a412c641bb26dfd8df609d.jpg,369,0,429,44,elephant
 ../data/test_images/9cddfd9e07d2cde3c5a412c641bb26dfd8df609d.jpg,3398,1783,3458,1843,elephant
 ../data/test_images/9cddfd9e07d2cde3c5a412c641bb26dfd8df609d.jpg,3337,1748,3397,1808,elephant
 ../data/test_images/9cddfd9e07d2cde3c5a412c641bb26dfd8df609d.jpg,568,1352,628,1412,elephant
@@ -1219,8 +1219,8 @@
 ../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,1857,175,1917,235,elephant
 ../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,2693,735,2753,795,elephant
 ../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,2415,536,2475,596,elephant
-../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,1269,-14,1329,46,elephant
-../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,1226,-21,1286,39,elephant
+../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,1269,0,1329,46,elephant
+../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,1226,0,1286,39,elephant
 ../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,838,565,898,625,elephant
 ../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,668,401,728,461,elephant
 ../data/test_images/d60fbe55e80d2bea5e6928663d0371a9a6bcf6c7.jpg,2119,2744,2179,2804,elephant
@@ -1294,7 +1294,7 @@
 ../data/test_images/75e717542f3da8e8215ea5a60ff6979ece070949.jpg,5010,3155,5070,3215,elephant
 ../data/test_images/4ddbeed9255571ac105dbc8bb89cb3c8d9d45c95.jpg,1098,3344,1158,3404,elephant
 ../data/test_images/4ddbeed9255571ac105dbc8bb89cb3c8d9d45c95.jpg,1012,3219,1072,3279,elephant
-../data/test_images/9b0e906835b1e5c5bdeb49a175cc05aca7a37055.jpg,4883,3598,4943,3658,elephant
+../data/test_images/9b0e906835b1e5c5bdeb49a175cc05aca7a37055.jpg,4883,3598,4943,3648,elephant
 ../data/test_images/9b0e906835b1e5c5bdeb49a175cc05aca7a37055.jpg,4874,3571,4934,3631,elephant
 ../data/test_images/9b0e906835b1e5c5bdeb49a175cc05aca7a37055.jpg,4836,3557,4896,3617,elephant
 ../data/test_images/102d2b93e0bad39c8c041242787eb9eb613848ec.jpg,1402,77,1462,137,elephant
@@ -1356,7 +1356,7 @@
 ../data/test_images/eddcbe632783369bdced59c91b2fb1e1d9737df5.jpg,809,1169,869,1229,elephant
 ../data/test_images/eddcbe632783369bdced59c91b2fb1e1d9737df5.jpg,896,1068,956,1128,elephant
 ../data/test_images/37163f54f7244bf9357b79396f9ddd19d43c2d8e.jpg,4912,2949,4972,3009,elephant
-../data/test_images/37163f54f7244bf9357b79396f9ddd19d43c2d8e.jpg,-5,2499,55,2559,elephant
+../data/test_images/37163f54f7244bf9357b79396f9ddd19d43c2d8e.jpg,0,2499,55,2559,elephant
 ../data/test_images/37163f54f7244bf9357b79396f9ddd19d43c2d8e.jpg,5,2512,65,2572,elephant
 ../data/test_images/e13b0f656089466de096330ad94d05d2df1c9061.jpg,3834,1565,3894,1625,elephant
 ../data/test_images/e13b0f656089466de096330ad94d05d2df1c9061.jpg,3929,1580,3989,1640,elephant
@@ -1377,7 +1377,7 @@
 ../data/test_images/4a715bcfbaa6497b03b08f7cf6032aadd6392ee9.jpg,5397,3162,5457,3222,elephant
 ../data/test_images/e976f60aa6abfeaa186f37631a34b610f52bb562.jpg,3024,391,3084,451,elephant
 ../data/test_images/09ba52297d91b809d44d929cf4562f7ddc7cfdf8.jpg,211,1337,271,1397,elephant
-../data/test_images/09ba52297d91b809d44d929cf4562f7ddc7cfdf8.jpg,-8,1157,52,1217,elephant
+../data/test_images/09ba52297d91b809d44d929cf4562f7ddc7cfdf8.jpg,0,1157,52,1217,elephant
 ../data/test_images/1f2f6a4d022bc8f5ba0543e1f395905912f4b10f.jpg,2581,1813,2641,1873,elephant
 ../data/test_images/57d3edfea555e19dd141090eb70b4f42c66608d1.jpg,4621,1915,4681,1975,elephant
 ../data/test_images/d5d3181de8c058b813ac6de9be1b78fe7266139a.jpg,4929,2754,4989,2814,elephant
